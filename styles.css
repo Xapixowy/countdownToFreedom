@@ -73,3 +73,9 @@ canvas {
       text-shadow: gold 1px 0 0px;
    }
 }
+
+@media (max-width: 768px) {
+   body {
+      font-size: 32px;
+   }
+}
