@@ -1,7 +1,7 @@
 const timer = document.querySelector('#timer');
 const audio = document.querySelector('audio#victoryAudio');
 
-const desiredDate = new Date('2021-08-12T16:30:00');
+const desiredDate = new Date('2021-10-10T16:30:00');
 
 let countdownInterval;
 
